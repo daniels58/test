@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: sarrp_bot.py
